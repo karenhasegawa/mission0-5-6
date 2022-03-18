@@ -10,8 +10,8 @@ define('MAIL_HOST','greenmink11.sakura.ne.jp');
 define('MAIL_USERNAME','haseprofile@greenmink11.sakura.ne.jp');
 
 // メールパスワード・上で記述したメールアドレスに即したパスワード
-//define('MAIL_PASSWORD','Mrnsarwtku1018');
-define('MAIL_PASSWORD','haseprofile0317');
+//define('MAIL_PASSWORD','*************');
+define('MAIL_PASSWORD','************');
 
 // SMTPプロトコル(sslまたはtls)
 define('MAIL_ENCRPT','ssl');
